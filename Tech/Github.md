@@ -1,0 +1,15 @@
+- https://github.com/Egonex-AI/Understand-Anything
+- https://github.com/SaladDay/pi-from-scratch
+- https://microsoft.github.io/flint-chart/#/zh
+- https://www.dgzhuya.com/
+- https://github.com/alexishida/Moji
+- https://github.com/mgechev/skills-best-practices
+- https://github.com/GoogleChrome/modern-web-guidance
+- https://github.com/iOfficeAI/OfficeCLI
+- https://github.com/nyblnet/bento
+- https://github.com/AdventDevInc/kudu
+- https://github.com/TabularisDB/tabularis
+- https://github.com/rohitg00/agentmemory
+- https://github.com/presenton/presenton
+- https://github.com/alibaba/open-code-review
+- https://github.com/tt-a1i/archify
