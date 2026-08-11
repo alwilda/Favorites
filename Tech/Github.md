@@ -1,3 +1,5 @@
+- https://github.com/firecrawl/anydoc
+- https://github.com/vitali87/code-graph-rag
 - https://github.com/Egonex-AI/Understand-Anything
 - https://github.com/SaladDay/pi-from-scratch
 - https://microsoft.github.io/flint-chart/#/zh
