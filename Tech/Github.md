@@ -1,3 +1,5 @@
+- https://github.com/sbroenne/mcp-server-excel
+- https://github.com/hahhforest/pi-textbook
 - https://github.com/firecrawl/anydoc
 - https://github.com/vitali87/code-graph-rag
 - https://github.com/Egonex-AI/Understand-Anything
