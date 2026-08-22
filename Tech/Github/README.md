@@ -1,3 +1,4 @@
+- https://github.com/iamgio/quarkdown
 - https://github.com/sbroenne/mcp-server-excel
 - https://github.com/hahhforest/pi-textbook
 - https://github.com/firecrawl/anydoc
